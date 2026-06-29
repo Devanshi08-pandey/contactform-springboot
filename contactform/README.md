@@ -266,9 +266,9 @@ B.Tech Computer Science Engineering
 
 Java Full Stack Developer
 
-GitHub: https://github.com/YOUR_GITHUB_USERNAME
+GitHub: https://github.com/Devanshi08-pandey
 
-LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN_USERNAME
+LinkedIn: https://www.linkedin.com/in/devanshi08/
 
 ---
 
